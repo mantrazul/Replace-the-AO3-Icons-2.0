@@ -10,7 +10,7 @@ p {
   font-family: 'EB Garamond', serif;
   font-size: 1.2em;
   text-indent: 2em;
-  line-height: 2;
+  /* line-height: 2; */
 }
 
 .userstuff hr {
