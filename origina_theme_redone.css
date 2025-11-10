@@ -13,6 +13,10 @@ p {
   /* line-height: 2; */
 }
 
+.bookmark .count a {
+  text-indent: 0;
+}
+
 .userstuff hr {
   color: var(--orignal-wine);
 }
