@@ -13,6 +13,20 @@ p {
   /* line-height: 2; */
 }
 
+div.userstuff li {
+  font-family: 'EB Garamond', serif;
+  font-size: 1.2em;
+}
+
+.icon {
+  text-indent : 0;
+}
+
+#expand-fandoms {
+  text-indent: 0;
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'GNU Unifont', Verdana, Helvetica, sans-serif;
+}
+
 .bookmark .count a {
   text-indent: 0;
 }
