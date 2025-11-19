@@ -27,6 +27,11 @@ div.userstuff li {
   font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'GNU Unifont', Verdana, Helvetica, sans-serif;
 }
 
+.actions a {
+  text-indent: 0;
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'GNU Unifont', Verdana, Helvetica, sans-serif;
+}
+
 .bookmark .count a {
   text-indent: 0;
 }
