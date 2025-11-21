@@ -13,6 +13,10 @@ p {
   /* line-height: 2; */
 }
 
+.datetime {
+  text-indent: 0;
+}
+
 div.userstuff li {
   font-family: 'EB Garamond', serif;
   font-size: 1.2em;
